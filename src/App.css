@@ -1,0 +1,10 @@
+body { 
+  background: rgb(240, 240, 240);
+}
+
+main {
+  margin-top: 1.7cm;   /* Top height reserved for the TopNav component */
+  margin-left: 0cm;
+}
+
+  

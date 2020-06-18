@@ -1,0 +1,17 @@
+.product {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-img {
+    width: 50%;
+}
+
+.product-basic-info {
+    width: 50%;
+}
+
+.product-info {
+    width: 100%;
+}

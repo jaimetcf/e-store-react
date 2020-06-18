@@ -1,0 +1,25 @@
+
+.app-logo {
+    position: relative;
+
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+
+    width: 0.8cm;
+    height: 0.8cm;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: inherit;
+
+    border: none;
+    cursor: pointer;
+  }
+
+  .app-logo > i {
+    width: inherit;
+    height: inherit;
+  }
+  

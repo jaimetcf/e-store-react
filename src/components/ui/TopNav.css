@@ -1,0 +1,39 @@
+.top-nav {
+  position: fixed;
+  top: 0;
+  left: 0cm;
+  width: 100%;
+  height: 1.7cm;
+  background-color: white;
+  opacity: 1;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+  z-index: 5;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.top-nav-title {
+  position: relative;
+
+  text-decoration: bold;
+/*  font: 32px Source Sans Pro; */
+  font: 32px Arial;
+  letter-spacing: 0.52px;
+  color: #170C3A;
+  opacity: 1;
+}  
+
+.top-nav-user-name {
+  position: absolute;
+  top: 0.3cm;
+  right: 2cm;
+  color: #170C3A;
+}
+
+.top-nav-links {
+  position: absolute;
+  top: 0.15cm;
+  right: 0.2cm;
+}
